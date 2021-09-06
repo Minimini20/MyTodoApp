@@ -90,3 +90,9 @@ body{
     color:black;
     cursor: default;
 }
+.deleted-list{
+    list-style: none;
+}
+.priority-list{
+    list-style: none;
+}
